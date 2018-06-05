@@ -1,0 +1,17 @@
+digraph "main"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node15 [label="main",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node15 -> Node16 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node16 [label="create_graph",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$main_8c.html#aa3658453d57fa4c5e6914a5c384b58b1"];
+  Node15 -> Node17 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node17 [label="indegree",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$main_8c.html#ac645d86806d3355ee3bfeada8ae82df1"];
+  Node15 -> Node18 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node18 [label="insert_queue",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$main_8c.html#ac15f2dbd900ecbfb45d28f066b0840fe"];
+  Node15 -> Node19 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node19 [label="isEmpty_queue",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$main_8c.html#a20c9270e4110d6604987880b29e629cc"];
+  Node15 -> Node20 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node20 [label="delete_queue",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$main_8c.html#a638fd2ac0fc927cf70fb49fac93e8f02"];
+}
