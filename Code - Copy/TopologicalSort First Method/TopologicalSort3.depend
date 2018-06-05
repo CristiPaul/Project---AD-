@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1527951726 source:c:\users\mihai\desktop\topologicalsort3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"indegree.h"
+
+1527863338 c:\users\mihai\desktop\topologicalsort3\queue.h
+
+1527863132 source:c:\users\mihai\desktop\topologicalsort3\queue.c
+	<stdio.h>
+	<stdlib.h>
+	"queue.h"
+
+1527863672 source:c:\users\mihai\desktop\topologicalsort3\create_graph.c
+	<stdio.h>
+	<stdlib.h>
+	"create_graph.h"
+
+1527863696 c:\users\mihai\desktop\topologicalsort3\create_graph.h
+
+1527868713 source:c:\users\mihai\desktop\topologicalsort3\indegree.c
+	<stdio.h>
+	<stdlib.h>
+	"indegree.h"
+
+1527864355 c:\users\mihai\desktop\topologicalsort3\indegree.h
+

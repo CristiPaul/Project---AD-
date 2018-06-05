@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1527955189 source:c:\users\mihai\desktop\topologicalsort1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"topological_sort.h"
+
+1527944239 source:c:\users\mihai\desktop\topologicalsort1\topological_sort.c
+	<stdio.h>
+	"topological_sort.h"
+
+1527944211 c:\users\mihai\desktop\topologicalsort1\topological_sort.h
+
