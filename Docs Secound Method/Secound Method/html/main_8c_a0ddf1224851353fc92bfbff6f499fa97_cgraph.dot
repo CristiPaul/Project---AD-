@@ -1,0 +1,19 @@
+digraph "main"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node21 [label="main",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node21 -> Node22 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node22 [label="init_adjacent_list",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$main_8c.html#a628215b351556d05a1f67df297d6a7e4"];
+  Node21 -> Node23 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node23 [label="init_degree",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$main_8c.html#a0f5c5f5ae8123d7ab238616652c5e548"];
+  Node21 -> Node24 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node24 [label="entries_adjacent_list",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$main_8c.html#accb73092eb921c4ee001533f7f4d7198"];
+  Node24 -> Node25 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node25 [label="creat_adjacent_list",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$main_8c.html#add7e67c5cff95706caf3ac881f149459"];
+  Node25 -> Node26 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node26 [label="init_list",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$main_8c.html#a571e96b891a9e310e85f44b567212b38"];
+  Node21 -> Node27 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node27 [label="topological_sorting",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$topological__sort_8c.html#a82d7e4d60594dad99a653309bc99cab5"];
+}
